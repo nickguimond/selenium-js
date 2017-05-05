@@ -1,6 +1,6 @@
 {
   "name": "selenium-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NodeJs selenium wrapper with major browser drivers included",
   "bin": {
     "selenium-js": "bin/start.js"
