@@ -1,0 +1,25 @@
+{
+  "name": "selenium-js",
+  "version": "1.0.0",
+  "description": "NodeJs selenium wrapper with major browser drivers included",
+  "bin": {
+    "selenium-js": "bin/start.js"
+  },
+  "main": "./lib/index.js",
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickguimond/selenium-js.git"
+  },
+  "keywords": [
+    "selenium",
+    "automation",
+    "webdriver"
+  ],
+  "author": "Nick Guimond",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickguimond/selenium-js/issues"
+  },
+  "homepage": "https://github.com/nickguimond/selenium-js#readme"
+}
