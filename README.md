@@ -3,7 +3,7 @@ NodeJs selenium wrapper with major browser drivers included. Presently only for 
 
 Currently this package is for local development and testing running selenium in standalone mode but can easily be modified to include other browser driver versions (ability to choose between them) and quickly set up and configure a selenium-grid. 
 
-`npm install selenium-js -g`
+`npm install selenium-js@1.0.2 -g`
 
 To run the server:
 `selenium-js`
